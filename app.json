@@ -7,36 +7,36 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "6535105791:AAF7oJEcgEhSKX0Zwyel9rnbVaIFqR-S_DM"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
+      "value": "yt_uploaderrrrbot",
       "required":false
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "1675220"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "75e7eb5a8b1b6e1ea81a7db7a79c4752"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "449918765027-5e5cggor06nq2r7hrlnh2u4penb3p6pp.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1119063013"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "1119063013",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
@@ -46,17 +46,17 @@
     },
     "VIDEO_CATEGORY": {
       "description": "YouTube's video category id.",
-      "value": "",
+      "value": "24",
       "required":false
     },
     "VIDEO_TITLE_PREFIX": {
       "description": "Any prefix to be added to the video's title.",
-      "value": "",
+      "value": "hgdyrytsvjtfjhh",
       "required":false
     },
     "VIDEO_TITLE_SUFFIX": {
       "description": "Any suffix to be added to the video's title.",
-      "value": "",
+      "value": "hfuuujhgff",
       "required":false
     },
     "UPLOAD_MODE": {
@@ -66,7 +66,7 @@
     },
     "DEBUG": {
       "description": "Pass any value to set logging to debug level.",
-      "value": "",
+      "value": "hdhfbnht",
       "required":false
     }
    },
